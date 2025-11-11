@@ -20,7 +20,6 @@ dist/
 *.egg-info/
 
 # Virtual environments
-.env
 env/
 venv/
 .venv/
@@ -34,7 +33,6 @@ data/
 Thumbs.db
 
 # IDE specific
-.vscode/
 .idea/
 output/
 
@@ -44,3 +42,5 @@ output/
 finetune/
 test/
 huggingface_ckpt/
+config.bat
+node_modules
